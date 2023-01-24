@@ -8,5 +8,5 @@ All music and sound effects are not mine, and are credited in-game.
 As this was the first game I made, I did not consider adding the control scheme, so I've provided
 it here:
 
-'WASD' to move, mouse to rotate and left click to fire.'Q' switches between 2 characters: 1 character 
+'WASD' to move, mouse to rotate and left click to fire. 'Q' switches between 2 characters: 1 character 
 is smaller and quicker, but takes more damage from enemies and deals less damage through bullets.
